@@ -1,0 +1,7 @@
+{
+    "build": {
+        "env": {
+            "REACT_APP_API_KEY": "988cd7133ea7423fa11db1fb112af508"
+        }
+    }
+}
